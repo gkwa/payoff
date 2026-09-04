@@ -14,7 +14,7 @@
     "@types/jest": "30.0.0",
     "@types/node": "24.13.3",
     "@types/prettier": "3.0.0",
-    "jest": "30.5.0",
+    "jest": "30.5.1",
     "ts-jest": "29.4.12",
     "aws-cdk": "2.1139.0",
     "ts-node": "10.9.2",
